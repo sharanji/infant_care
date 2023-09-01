@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Infant care</string>
+
+
+    <string name="feedingStartTime">StartTime</string>
+    <string name="feedingEndTime">EndTime</string>
+</resources>

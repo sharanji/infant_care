@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765753007215",
+    "project_id": "babycareapp-cc08e",
+    "storage_bucket": "babycareapp-cc08e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765753007215:android:4e961c6e6f16bda059419a",
+        "android_client_info": {
+          "package_name": "au.edu.utas.kit305.tutorial05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765753007215-blu1hehp307b4aud2705p5n93c71sojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVR-QeVQbjDydMSKyFrjjr4W4mfZaJM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765753007215-blu1hehp307b4aud2705p5n93c71sojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

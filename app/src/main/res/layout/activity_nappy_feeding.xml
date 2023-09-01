@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nappy Record Details"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/et_nappy_date"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Date" />
+
+    <EditText
+        android:id="@+id/et_start_time"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Start Time" />
+
+    <EditText
+        android:id="@+id/et_end_time"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="End time" />
+
+    <EditText
+        android:id="@+id/et_bt_count"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="BT Count" />
+
+    <EditText
+        android:id="@+id/et_remarks"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Remarks" />
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update" />
+
+</LinearLayout>
